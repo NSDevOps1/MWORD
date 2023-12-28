@@ -1,3 +1,7 @@
 Greetings!!!!!!!!!!!!!!
 Changing at 4:46 Pm in GitHub Branch main
+<<<<<<< HEAD
 Adding new line from Local Git at 4:51
+=======
+Adding in GItHUb at 4:53 PM
+>>>>>>> 46323464e2a54b118f3813cff72a0912ce618deb
